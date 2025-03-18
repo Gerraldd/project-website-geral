@@ -19,7 +19,7 @@ Website ini dibangun menggunakan teknologi dasar web seperti **HTML5** dan **CSS
 📦 projek-website-geral
  ┣ 📄 index.html      # Halaman utama website
  ┗ 📁 assets          # Folder aset (gambar, stylesheet, dll)
-
+```
 ---
 
 ## 🛠️ Teknologi yang Digunakan
@@ -34,8 +34,6 @@ Website ini dibangun menggunakan teknologi dasar web seperti **HTML5** dan **CSS
 
 ## 📸 Screenshot
 
-> Tambahkan screenshot dari tampilan website kamu di sini (opsional)  
-> Contoh:  
 > ![Tampilan Website](https://via.placeholder.com/800x400.png?text=Screenshot+Website+Kamu)
 
 ---
