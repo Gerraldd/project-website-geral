@@ -34,7 +34,7 @@ Website ini dibangun menggunakan teknologi dasar web seperti **HTML5** dan **CSS
 
 ## 📸 Screenshot
 
-> ![Tampilan Website](./assets/image/screenshot-web.png)
+> ![Tampilan Website](./assets/image/screenshot-website.png)
 
 ---
 
