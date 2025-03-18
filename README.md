@@ -66,10 +66,10 @@ Project ini adalah submission personal untuk Dicoding, namun kamu dipersilakan u
 
 ## ✍️ Author
 
-**Nama :** Muhammad Geral Herpavy
-**Username :** Gerraldd
+**Nama :** Muhammad Geral Herpavy<br>
+**Username :** Gerraldd<br>
 **Kelas** : Belajar Dasar Pemrograman Web - Dicoding
 
-“Belajar adalah investasi masa depan. Tetap semangat!” 🚀
+> “Belajar adalah investasi masa depan. Tetap semangat!” 🚀
 
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="200" alt="funny developer gif">
