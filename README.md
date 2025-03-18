@@ -15,7 +15,10 @@ Website ini dibangun menggunakan teknologi dasar web seperti **HTML5** dan **CSS
 
 ## 📂 Struktur Folder
 
-/projek-website-geral │ ├── index.html # Halaman utama website └── /assets # Folder aset (gambar, stylesheet, dll)
+```plaintext
+📦 projek-website-geral
+ ┣ 📄 index.html      # Halaman utama website
+ ┗ 📁 assets          # Folder aset (gambar, stylesheet, dll)
 
 ---
 
@@ -65,9 +68,9 @@ Project ini adalah submission personal untuk Dicoding, namun kamu dipersilakan u
 
 ## ✍️ Author
 
-Nama : Muhammad Geral Herpavy
-Username : Gerraldd
-Kelas : Belajar Dasar Pemrograman Web - Dicoding
+**Nama :** Muhammad Geral Herpavy
+**Username :** Gerraldd
+**Kelas** : Belajar Dasar Pemrograman Web - Dicoding
 
 “Belajar adalah investasi masa depan. Tetap semangat!” 🚀
 
