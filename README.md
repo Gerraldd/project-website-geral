@@ -64,11 +64,26 @@ Website ini dibangun menggunakan teknologi dasar web seperti **HTML5** dan **CSS
 
 Project ini adalah submission personal untuk Dicoding, namun kamu dipersilakan untuk memberikan masukan atau feedback dengan membuat issue atau pull request!
 
+---
+
 ## ✍️ Author
 
 **Nama :** Muhammad Geral Herpavy<br>
 **Username :** Gerraldd<br>
 **Kelas** : Belajar Dasar Pemrograman Web - Dicoding
+
+---
+
+## 🏅 Sertifikat Submission
+
+Project ini merupakan bagian dari submission di kelas berikut:
+
+- **Belajar Dasar Pemrograman Web - Dicoding**  
+  ID Sertifikat: `2VX3KLMR4XYQ`  
+  [🔗 Lihat Sertifikat di Dicoding](https://www.dicoding.com/certificates/2VX3KLMR4XYQ)
+
+> ![Sertifikat Dicoding](./assets/image/sertifikat-dicoding.png)
+
 
 > “Belajar adalah investasi masa depan. Tetap semangat!” 🚀
 
